@@ -39,4 +39,4 @@ Register Number: 212222230056
 ![image](https://github.com/Jenishajustin/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119405070/101fead1-3a14-4478-9367-e7309880199d)
 
 ## RESULT: 
-### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
